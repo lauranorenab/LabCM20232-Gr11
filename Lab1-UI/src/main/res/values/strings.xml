@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">Labs20232-Gr11</string>
+    <string name="app_name">Contactos</string>
+    <string name="numeroDeTelefono">Numero de teléfono</string>
+    <string name="correo">Correo</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="pais">País</string>
+    <string name="direccion">Dirección</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="seleccionarUnPais">Selecciona un país</string>
+    <string name="seleccionarUnaCiudad">Selecciona una ciudad</string>
+    <string name="mensajeTelefono">Es obligatorio el numero de teléfono</string>
+    <string name="mensajeCorreo">Es obligatorio el correo</string>
+    <string name="mensajeCorreoInvalid">Ingrese un correo válido</string>
+    <string name="mensajePais">Es obligatorio el país</string>
+    <string name="mensajeAprobado">Los datos están correctos</string>
+    <string name="informacionDeContacto">Información de contacto</string>
+    <string name="title">Información Personal</string>
+    <string name="birth">Nació el </string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellidos</string>
+    <string name="gender">Sexo</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="birthdate">Fecha de nacimiento</string>
+    <string name="next">Siguiente</string>
+    <string name="datehint">DD/MM/AAAA</string>
+    <string name="chooseeducation">Elija su escolaridad</string>
+    <string name="kindereducation">Guardería</string>
+    <string name="elementaryeducation">Primaria</string>
+    <string name="highschooleducation">Secundaria</string>
+    <string name="universityeducation">Edu Superior</string>
+    <string name="messagename">Es obligatorio el nombre</string>
+    <string name="messagelastname">Es obligatorio el apellido</string>
+    <string name="messagebirthdate">Es obligatoria su fecha de nacimiento</string>
+    <string name="messagenamelength">El nombre debe tener como mínimo 2 letras y maximo 20 letras</string>
+    <string name="messagelastnamelength">Los apellidos debe tener como mínimo 2 letras y máximo 20 letras</string>
+
 </resources>

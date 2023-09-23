@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="correo">Mail</string>
+    <string name="ciudad">City</string>
+    <string name="pais">Country</string>
+    <string name="direccion">Address</string>
+    <string name="siguiente">Next</string>
+    <string name="numeroDeTelefono">Phone number</string>
+    <string name="seleccionarUnPais">Select a country</string>
+    <string name="seleccionarUnaCiudad">Select a city</string>
+    <string name="mensajeTelefono">Telephone number is required</string>
+    <string name="mensajeCorreo">Email is required</string>
+    <string name="mensajeCorreoInvalid">Enter a valid email address</string>
+    <string name="mensajePais">" The country is required"</string>
+    <string name="mensajeAprobado">" The data is correct"</string>
+    <string name="informacionDeContacto">" Contact information"</string>
+    <string name="title">Personal Data</string>
+    <string name="birth">Born on</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthdate">Birth Date</string>
+    <string name="next">Next</string>
+    <string name="datehint">DD/MM/YYYY</string>
+    <string name="chooseeducation">Educational level</string>
+    <string name="kindereducation">Kinder</string>
+    <string name="universityeducation">University</string>
+    <string name="elementaryeducation">Elementary</string>
+    <string name="highschooleducation">High School</string>
+    <string name="messagename">Name is required</string>
+    <string name="messagelastname">Last name is required</string>
+    <string name="messagebirthdate">Birth date is required</string>
+    <string name="messagenamelength">The name must have a minimum of 2 letters and a maximum of 20 letters</string>
+    <string name="messagelastnamelength">Surnames must have a minimum of 2 letters and a maximum of 20 letters</string>
+</resources>
